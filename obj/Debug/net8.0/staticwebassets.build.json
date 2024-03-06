@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "YsExgJHJKyiHCn2/iqW0uyl0zuiSwvC2YPRulXYZMX8=",
+  "Source": "crudApp",
+  "BasePath": "_content/crudApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
