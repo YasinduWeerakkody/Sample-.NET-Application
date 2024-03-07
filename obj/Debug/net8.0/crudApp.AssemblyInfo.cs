@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("crudApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+083158eead38cd78083f8920c3f3c6b782054694")]
 [assembly: System.Reflection.AssemblyProductAttribute("crudApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("crudApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

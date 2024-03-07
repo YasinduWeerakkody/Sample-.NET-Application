@@ -41,7 +41,7 @@ namespace crudApp.Controllers
             var brand = await _dbContext.Brands.FindAsync(id);
 
             if ( brand == null)
-            {
+            { 
                 return NotFound();
             }
 
@@ -57,5 +57,9 @@ namespace crudApp.Controllers
 
             return CreatedAtAction(nameof(GetBrand), new { id = brand.ID }, brand);
         }
+
+     
+
+
     }
 }
